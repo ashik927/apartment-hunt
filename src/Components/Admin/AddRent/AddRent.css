@@ -1,0 +1,19 @@
+.upload-btn input[type="file"] {
+    display: none;
+}
+
+.upload-btn {
+    border: 1px solid #009444;
+    background-color: #deffed;
+    color: #009444;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.submit-btn {
+    background-color: #275a53;
+}
+@media screen and (max-width: 770px) {
+    .submit-btn {
+        margin-left: 60px;
+    }
+}

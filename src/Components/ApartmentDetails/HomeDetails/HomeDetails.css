@@ -1,0 +1,14 @@
+form input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.submit {
+  background-color: #275A53;
+  border: none;
+  color: white;
+  height: 50px;
+}
+/*# sourceMappingURL=HomeDetails.css.map */

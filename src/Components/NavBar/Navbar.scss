@@ -1,0 +1,21 @@
+.brand-logo{
+    width: 100px;
+}
+.nav-page{
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.nav-page:hover{
+    color: rgb(105, 103, 103);
+    text-decoration: underline;
+}
+
+.navbar-nav{
+    margin-left: auto;
+    align-items: center;
+}

@@ -1,0 +1,23 @@
+$bg-color: #275a53;
+$height: 250px;
+$footer-padding: 0;
+$color: white;
+$padding: 40px;
+
+$margin: 40px;
+.bg-color {
+  background-color: $bg-color;
+  height: $height;
+}
+.footer-padding {
+  padding: $footer-padding;
+  color: $color;
+}
+.footer-padding li {
+  list-style: none;
+}
+.extra-style {
+  padding-left: $padding;
+  padding-top: $padding;
+  margin-bottom: $margin;
+}

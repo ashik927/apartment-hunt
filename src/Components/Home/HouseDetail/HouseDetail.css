@@ -1,0 +1,34 @@
+.bg-style {
+  background-color: white;
+}
+
+.bodyMargin {
+  margin-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.padding-inside {
+  padding: 5px;
+  padding-left: 10px;
+}
+
+.view-detail {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 10px;
+}
+
+.button-design {
+  margin-left: 80px;
+  border: none;
+  background-color: #275a53;
+  color: white;
+  padding: 5px;
+}
+
+.amount-design {
+  color: #275a53;
+}
+/*# sourceMappingURL=HouseDetail.css.map */

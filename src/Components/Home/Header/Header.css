@@ -1,0 +1,29 @@
+.bg-image {
+  position: center;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(24, 22, 22, 0.609)), to(rgba(15, 11, 11, 0.644))), url("./Rectangle 13.png");
+  background: linear-gradient(rgba(24, 22, 22, 0.609), rgba(15, 11, 11, 0.644)), url("./Rectangle 13.png");
+  width: 100%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+}
+
+input {
+  width: 300px;
+  height: 35px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.btn-style {
+  width: 120px;
+  height: 35px;
+  margin-right: 10px;
+  background-color: #275a53;
+  color: white;
+}
+/*# sourceMappingURL=Header.css.map */

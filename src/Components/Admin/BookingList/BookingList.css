@@ -1,0 +1,59 @@
+.table-wrapper {
+    background-color: #f4f7fc;
+    height: 80vh;
+    padding: 10px;
+    border-radius: 10px;
+    overflow: auto;
+}
+
+.table-container {
+    padding: 10px;
+    margin: 10px 20px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+thead {
+    background-color: #f4f7fc;
+    position: sticky;
+}
+thead th:first-child {
+    border-radius: 10px 0 0 10px;
+}
+
+thead th:last-child {
+    border-radius: 0 10px 10px 0;
+}
+th,
+td {
+    text-align: left;
+    padding: 10px;
+    min-width: 200px;
+}
+
+th {
+    margin-top: 10px;
+}
+select {
+    border: none;
+}
+select:active {
+    border: none;
+}
+.pending {
+    color: #ff4545;
+}
+
+.on-going {
+    color: #ffbd3e;
+}
+
+.done {
+    color: #009444;
+}
+
+@media screen and (min-width: 576px) {
+    .table-container {
+        min-width: 980px;
+    }
+}

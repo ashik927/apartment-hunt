@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,WAAW,CAAC;EACV,MAAM,EAJC,KAAK;CAMb",
+    "sources": [
+        "ServiceDetail.scss"
+    ],
+    "names": [],
+    "file": "ServiceDetail.css"
+}

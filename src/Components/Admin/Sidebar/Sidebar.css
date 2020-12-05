@@ -1,0 +1,28 @@
+.sidebar-wrapper img {
+    width: 120px;
+    display: block;
+    margin: 40px 0 20px 40px;
+}
+
+.sidebar-wrapper ul {
+    list-style-type: none;
+    margin-top: 60px;
+}
+
+.sidebar-wrapper li {
+    margin-bottom: 2em;
+}
+
+.sidebar-link {
+    color: #111111;
+}
+
+.sidebar-link:hover,
+.active-link:hover {
+    text-decoration: none;
+    color: #c3c3c3;
+}
+
+.active-link {
+    color: #2d5e58;
+}
